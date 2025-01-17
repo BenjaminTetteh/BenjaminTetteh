@@ -15,7 +15,6 @@ safeguard digital environments while advancing as a cybersecurity professional.
 
 
 ### 🔐 Cyber Security Projects I have done:
-
 * Automate a task using Python
 * Packet Sniffer Wireshark
 * Splunk SIEM Tool project
@@ -32,18 +31,26 @@ safeguard digital environments while advancing as a cybersecurity professional.
 * **Mastercard Cybersecurity Virtual Experience Program (Forage):** Identified and reported phishing threats, assessed areas requiring improved security training, and implemented mitigation procedures.
 
 
+### 📃 Training and Certifications:
+* CompTIA Security+ (Expected 3/25)
+* SOC Analyst 1 - Try Hack Me (Expected 3/25)
+* Introduction to Vulnerability Management - Security Blue Team, 2024
+* Google Cybersecurity Professional Certificate, 2024
+* Certified in Cybersecurity - ISC2, 2024
+* Cybersecurity 101 - Try Hack Me, 2024
+* Qualys Vulnerability Management Foundation, 2024
+* Cisco Networking Basics, 2024
+* Google, AI Essentials, 2024
+* AWS Cloud Essentials, 2024
+* UX Design - Google, 2023
 
 
+### 🌐 Let’s Connect
+I am committed to expanding my portfolio as I complete more certifications and projects. 
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/benjamintetteh/) or email me at benjamintetteh@gmail.com. 
+Thank you for taking the time to learn more about my journey into cybersecurity!
 
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### 🥷 Skills and Technologies
+Linux, SQL, Python, Splunk, Network Security, WireShark, Microsoft 365, Cloud Computing, AWS, Azure, Research
 
-- ⚡ Fun fact: ... I have extensive graphic/UX/UI design, print production, and communication experience.
-
-<!---
-BenjaminTetteh/BenjaminTetteh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
