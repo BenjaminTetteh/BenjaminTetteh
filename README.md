@@ -13,6 +13,10 @@ My passion for technology and problem-solving fuels my growth in the field, as I
 What sets me apart is my determination to tackle challenging problems and deliver effective, secure solutions. I’m excited to apply my skills to 
 safeguard digital environments while advancing as a cybersecurity professional.
 
+🌐 I am committed to expanding my portfolio as I complete more projects. 
+Let’s connect on [LinkedIn](https://www.linkedin.com/in/benjamintetteh/) or email me at benjamintetteh@gmail.com. 
+I'll be delighted to hear from you.
+
 
 ## 🔐 Cyber Security Projects I have done:
 * Automate a task using Python
@@ -45,12 +49,8 @@ safeguard digital environments while advancing as a cybersecurity professional.
 * UX Design - Google, 2023
 
 
-### 🌐 Let’s Connect
-I am committed to expanding my portfolio as I complete more certifications and projects. 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/benjamintetteh/) or email me at benjamintetteh@gmail.com. 
-Thank you for taking the time to learn more about my journey into cybersecurity!
 
 
-### 🥷 Skills and Technologies
+## 🥷 Skills and Technologies
 Linux, SQL, Python, Splunk, Network Security, WireShark, Microsoft 365, Cloud Computing, AWS, Azure, Research
 
