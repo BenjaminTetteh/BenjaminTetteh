@@ -1,4 +1,4 @@
-# Hello, 🖐️ my name is Benjamin Tetteh I am an aspiring Cloud Security Professional
+# Hello, 🖐️ my name is Benjamin Tetteh. I'm an aspiring Cloud Security Professional
 
 ### 👨‍💻 About me:
 I’m a passionate and self-motivated learner transitioning into cybersecurity. 
