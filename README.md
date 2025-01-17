@@ -25,8 +25,8 @@ safeguard digital environments while advancing as a cybersecurity professional.
 * Nmap scanning tool
 * Managing Files with using Linux commands
 * Add or delete a user using Linux commands
-* #### Cybersecurity Lab Environment Setup:
-  Built a virtual lab using VirtualBox on MacBook Air M2, with KALI Linux, Metasploitable 2, Nessus Essentials, and WPScan for vulnerability management, malware analysis, and log analysis.
+* Cybersecurity Lab Environment Setup: Built a virtual lab using VirtualBox on MacBook Air M2, with KALI Linux, Metasploitable 2, Nessus Essentials, and WPScan for vulnerability 
+  management, malware analysis, and log analysis.
 * #### ANZ Australia Cybersecurity Management Job Simulation (Forage):
   Investigated phishing emails and analyzed Packet Capture files using Wireshark and a Hex-editor to identify potential threats.
 * #### Telstra Cybersecurity Job Simulation (Forage):
