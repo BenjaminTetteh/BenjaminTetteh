@@ -1,6 +1,6 @@
 # Hello, 🖐️ my name is Benjamin Tetteh I am an aspiring Cloud Security Professional
 
-### 👨‍💻 About me
+## 👨‍💻 About me
 Hi, I’m Benjamin Tetteh — a passionate and self-motivated learner transitioning into cybersecurity. 
 With over 15 years of experience in communication, event management, and UI/UX design, 
 I bring a creative and analytical perspective to this dynamic field. My journey into cybersecurity is driven by 
@@ -14,7 +14,7 @@ What sets me apart is my determination to tackle challenging problems and delive
 safeguard digital environments while advancing as a cybersecurity professional.
 
 
-### 🔐 Cyber Security Projects I have done:
+## 🔐 Cyber Security Projects I have done:
 * Automate a task using Python
 * Packet Sniffer Wireshark
 * Splunk SIEM Tool project
@@ -31,7 +31,7 @@ safeguard digital environments while advancing as a cybersecurity professional.
 * **Mastercard Cybersecurity Virtual Experience Program (Forage):** Identified and reported phishing threats, assessed areas requiring improved security training, and implemented mitigation procedures.
 
 
-### 📃 Training and Certifications:
+## 📃 Training and Certifications:
 * CompTIA Security+ (Expected 3/25)
 * SOC Analyst 1 - Try Hack Me (Expected 3/25)
 * Introduction to Vulnerability Management - Security Blue Team, 2024
