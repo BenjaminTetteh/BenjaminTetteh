@@ -19,12 +19,12 @@ I'll be delighted to hear from you.
 
 
 ## 🔐 Cyber Security Projects I have done:
-* **Analyze a vulnerable system for a small business:** I conducted a vulnerability assessment for a small business, evaluated the risks of a vulnerable information system and outlined a remediation plan. NIST SP 800-30 Rev. 1 was used to guide the risk analysis of the information system.
-* **Conduct a security audit:** Performed an internal security audit for a fictional company, assessing its security posture, identifying gaps, and recommending improvements to align with PCI DSS, GDPR, and SOC standards.
-* **Incident report analysis:** I created an incident report after analyzing a scenario using the National Institute of Standards and Technology's Cybersecurity Framework (NIST CSF). 
-* **Update a file through a Python algorithm:** In this project, I was able to open a file, read the contents within the file, write contents within the file, and created an algorithm that updated a file using Python. 
-* **Applying filters to SQL queries:** I used SQL with filters to perform security-related tasks.* Packet Sniffer Wireshark
-* **Managing Files using Linux commands:** I used Linux commands to examine existing permissions and modified them if need be, to authorize the appropriate users and removed any unauthorized access.
+* **[Analyze a vulnerable system for a small business:](https://github.com/BenjaminTetteh/Cybersecurity-Portfolio/blob/main/Analyze%20a%20vulnerable%20system%20for%20a%20small%20business.pdf)** I conducted a vulnerability assessment for a small business, evaluated the risks of a vulnerable information system and outlined a remediation plan. NIST SP 800-30 Rev. 1 was used to guide the risk analysis of the information system.
+* **[Conduct a security audit:](https://github.com/BenjaminTetteh/Cybersecurity-Portfolio/blob/main/Conduct%20a%20security%20audit.pdf)** Performed an internal security audit for a fictional company, assessing its security posture, identifying gaps, and recommending improvements to align with PCI DSS, GDPR, and SOC standards.
+* **[Incident report analysis:](https://github.com/BenjaminTetteh/Cybersecurity-Portfolio/blob/main/Incident%20report%20analysis.pdf)** I created an incident report after analyzing a scenario using the National Institute of Standards and Technology's Cybersecurity Framework (NIST CSF). 
+* **[Update a file through a Python algorithm:](https://github.com/BenjaminTetteh/Cybersecurity-Portfolio/blob/main/Update%20a%20file%20through%20a%20Python%20algorithm.pdf)** In this project, I was able to open a file, read the contents within the file, write contents within the file, and created an algorithm that updated a file using Python. 
+* **[Applying filters to SQL queries:](https://github.com/BenjaminTetteh/Cybersecurity-Portfolio/blob/main/Apply%20filters%20to%20SQL%20queries.pdf)** I used SQL with filters to perform security-related tasks.* Packet Sniffer Wireshark
+* **[Managing Files using Linux commands:](https://github.com/BenjaminTetteh/Cybersecurity-Portfolio/blob/main/File%20permissions%20in%20Linux.pdf)** I used Linux commands to examine existing permissions and modified them if need be, to authorize the appropriate users and removed any unauthorized access.
 * Security Incident Report
 * **Change converter:** As part of my training from Security Blue Team, I created a python program that converts a given amount of money, expressed in cents, into its equivalent value in dollars, quarters, dimes, nickels, and pennies. 
 * **Cybersecurity Lab Environment Setup:** Built a virtual lab using VirtualBox on MacBook Air M2, with KALI Linux, Metasploitable 2, Nessus Essentials, and WPScan for vulnerability management, malware analysis, and log analysis.
