@@ -22,8 +22,8 @@ I'll be delighted to hear from you.
 * **[Update a file through a Python algorithm:](https://github.com/BenjaminTetteh/Cybersecurity-Portfolio/blob/main/Update%20a%20file%20through%20a%20Python%20algorithm.pdf)** In this project, I was able to open a file, read the contents within the file, write contents within the file, and created an algorithm that updated a file using Python. 
 * **[Applying filters to SQL queries:](https://github.com/BenjaminTetteh/Cybersecurity-Portfolio/blob/main/Apply%20filters%20to%20SQL%20queries.pdf)** I used SQL with filters to perform security-related tasks.
 * **[Managing Files using Linux commands:](https://github.com/BenjaminTetteh/Cybersecurity-Portfolio/blob/main/File%20permissions%20in%20Linux.pdf)** I used Linux commands to examine existing permissions and modified them if need be, to authorize the appropriate users and removed any unauthorized access.
-* **Created a Virtual Private Cloud (VPC) Using AWS** Designed and deployed a Virtual Private Clouds (VPC) on Amazon Web Services (AWS) and configured virtual machines within the VPC for testing and operational purposes.
-* **Security Incident Report** Documented a cybersecurity incident involving a ransomware attack on a healthcare facility.
+* **Created a Virtual Private Cloud (VPC) Using AWS:** Designed and deployed a Virtual Private Clouds (VPC) on Amazon Web Services (AWS) and configured virtual machines within the VPC for testing and operational purposes.
+* **Security Incident Report:** Documented a cybersecurity incident involving a ransomware attack on a healthcare facility.
 * **Change converter:** As part of my training from Security Blue Team, I created a python program that converts a given amount of money, expressed in cents, into its equivalent value in dollars, quarters, dimes, nickels, and pennies. 
 * **Cybersecurity Lab Environment Setup:** Built a virtual lab using VirtualBox on MacBook Air M2, with KALI Linux, Metasploitable 2, Nessus Essentials, and WPScan for vulnerability management, malware analysis, and log analysis.
 * **ANZ Australia Cybersecurity Management Job Simulation (Forage):** Investigated phishing emails and analyzed Packet Capture files using Wireshark and a Hex-editor to identify potential threats.
@@ -38,7 +38,7 @@ I'll be delighted to hear from you.
 * Introduction to Vulnerability Management - Security Blue Team, 2024
 * Google Cybersecurity Professional Certificate, 2024
 * Certified in Cybersecurity - ISC2, 2024
-* Cybersecurity 101 - Try Hack Me, 2024
+* Introduction to Cybersecurity - Try Hack Me, 2024
 * Qualys Vulnerability Management Foundation, 2024
 * Cisco Networking Basics, 2024
 * Google, AI Essentials, 2024
