@@ -5,13 +5,10 @@ I’m a passionate and self-motivated learner transitioning into cybersecurity.
 With over 15 years of experience in communication, event management, and UI/UX design, 
 I bring a creative and analytical perspective to this dynamic field. My journey into cybersecurity is driven by 
 a desire to tackle complex challenges and protect sensitive information from malicious threats. 
-I have developed hands-on expertise in vulnerability management, network security, and incident response, 
-working with tools such as Splunk, Chronicle, Nmap, Wireshark, and Python, alongside navigating Linux systems and filtering data with SQL queries.
+I have developed hands-on expertise in cybersecurity frameworks, vulnerability management, network security, incident response and cloud computing working with tools such as Splunk, Chronicle, Nmap, Wireshark, and Python, alongside navigating Linux systems and filtering data with SQL queries.
 
 I dedicate significant time to continuous learning through platforms like TryHackMe, HackTheBox, YouTube and other educational resources. 
-My passion for technology and problem-solving fuels my growth in the field, as I strive to stay ahead in the ever-evolving cybersecurity landscape. 
-What sets me apart is my determination to tackle challenging problems and deliver effective, secure solutions. I’m excited to apply my skills to 
-safeguard digital environments while advancing as a cybersecurity professional.
+My passion for technology and problem-solving fuels my growth in the field, as I strive to stay ahead in the ever-evolving cybersecurity landscape. What sets me apart is my determination to tackle challenging problems and deliver effective, secure solutions. I’m excited to apply my skills to safeguard digital environments while advancing as a cybersecurity professional.
 
 🌐 I am committed to expanding my portfolio as I complete more projects. 
 Let’s connect on [LinkedIn](https://www.linkedin.com/in/benjamintetteh/) or email me at benjamintetteh@gmail.com. 
