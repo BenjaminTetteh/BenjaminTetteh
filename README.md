@@ -26,6 +26,8 @@ I'll be delighted to hear from you.
 * **Security Incident Report:** Documented a cybersecurity incident involving a ransomware attack on a healthcare facility.
 * **Change converter:** As part of my training from Security Blue Team, I created a python program that converts a given amount of money, expressed in cents, into its equivalent value in dollars, quarters, dimes, nickels, and pennies. 
 * **Cybersecurity Lab Environment Setup:** Built a virtual lab using VirtualBox on MacBook Air M2, with KALI Linux, Metasploitable 2, Nessus Essentials, and WPScan for vulnerability management, malware analysis, and log analysis.
+
+## 🔐 Experience:
 * **ANZ Australia Cybersecurity Management Job Simulation (Forage):** Investigated phishing emails and analyzed Packet Capture files using Wireshark and a Hex-editor to identify potential threats.
 * **Telstra Cybersecurity Job Simulation (Forage):** Gained experience in malware detection, incident response, and implementing firewalls as part of a Security Operations team.
 * **PwC Switzerland Cybersecurity Job Simulation (Forage):** Conducted risk assessments, recommended security strategies, and demonstrated expertise in network segmentation and firewall configuration.
