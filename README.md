@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/07d30ef0-a1b9-43cf-b453-aa1f2f048f8a)# Hello, 🖐️ my name is Benjamin Tetteh. I'm an aspiring Cloud Security Professional
+# Hello, 🖐️ my name is Benjamin Tetteh. I'm an aspiring Cloud Security Professional
 
 ### 👨‍💻 About me:
 I’m a passionate and self-motivated learner transitioning into cybersecurity. 
@@ -13,7 +13,6 @@ My passion for technology and problem-solving fuels my growth in the field, as I
 🌐 I am committed to expanding my portfolio as I complete more projects. 
 Let’s connect on [LinkedIn](https://www.linkedin.com/in/benjamintetteh/) or email me at benjamintetteh@gmail.com. 
 I'll be delighted to hear from you.
-
 
 ## 🔐 Cybersecurity Projects I have done:
 * **Conducted an enterprise-wide NIST Cybersecurity framework assessment:** Performed a comprehensive NIST CSF assessment on a fictional healthcare provider to identify security gaps, align controls with HIPAA & NIST SP 800-53, developed an incident response plan, and proposed a 12-month security roadmap to enhance GRC expertise.
@@ -48,10 +47,9 @@ I'll be delighted to hear from you.
 * AWS Cloud Essentials, 2024
 * UX Design - Google, 2023
 
-
 ## 🥷 Skills and Technologies:
-Technology: Linux, Python, SQL, Splunk, Wireshark, Virtual Machines, Nessus, WPScan, Firewalls, CISO Assistant, Microsoft 365, Microsoft Defender, Cisco Packet Tracer
-Concepts/Frameworks: Network Security, Incident Response, Incident Triage, NIST, HIPAA, Network Security, MITRE ATT&CK, Cloud Computing, AWS, Research, HIPAA Compliance, NIST CSF, Identity and Access Management
-Soft: Curiosity, Analytical, Attention to Detail, Team Player, Communication, Critical Thinking, Self-Motivation, Problem-Solving, Desire to Learn
+* Technology: Linux, Python, SQL, Splunk, Wireshark, Virtual Machines, Nessus, WPScan, Firewalls, CISO Assistant, Microsoft 365, Microsoft Defender, Cisco Packet Tracer
+* Concepts/Frameworks: Network Security, Incident Response, Incident Triage, NIST, HIPAA, Network Security, MITRE ATT&CK, Cloud Computing, AWS, Research, HIPAA Compliance, NIST CSF, Identity and Access Management
+* Soft: Curiosity, Analytical, Attention to Detail, Team Player, Communication, Critical Thinking, Self-Motivation, Problem-Solving, Desire to Learn
 
  
