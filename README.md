@@ -1,4 +1,4 @@
-# Hello, 🖐️ my name is Benjamin Tetteh. I'm an aspiring Cloud Security Professional
+![image](https://github.com/user-attachments/assets/07d30ef0-a1b9-43cf-b453-aa1f2f048f8a)# Hello, 🖐️ my name is Benjamin Tetteh. I'm an aspiring Cloud Security Professional
 
 ### 👨‍💻 About me:
 I’m a passionate and self-motivated learner transitioning into cybersecurity. 
@@ -15,7 +15,8 @@ Let’s connect on [LinkedIn](https://www.linkedin.com/in/benjamintetteh/) or em
 I'll be delighted to hear from you.
 
 
-## 🔐 Cyber Security Projects I have done:
+## 🔐 Cybersecurity Projects I have done:
+* **Conducted an enterprise-wide NIST Cybersecurity framework assessment:** Performed a comprehensive NIST CSF assessment on a fictional healthcare provider to identify security gaps, align controls with HIPAA & NIST SP 800-53, developed an incident response plan, and proposed a 12-month security roadmap to enhance GRC expertise.
 * **[Analyze a vulnerable system for a small business:](https://github.com/BenjaminTetteh/Cybersecurity-Portfolio/blob/main/Analyze%20a%20vulnerable%20system%20for%20a%20small%20business.pdf)** I conducted a vulnerability assessment for a small business, evaluated the risks of a vulnerable information system and outlined a remediation plan. NIST SP 800-30 Rev. 1 was used to guide the risk analysis of the information system.
 * **[Conduct a security audit:](https://github.com/BenjaminTetteh/Cybersecurity-Portfolio/blob/main/Conduct%20a%20security%20audit.pdf)** Performed an internal security audit for a fictional company, assessing its security posture, identifying gaps, and recommending improvements to align with PCI DSS, GDPR, and SOC standards.
 * **[Incident report analysis:](https://github.com/BenjaminTetteh/Cybersecurity-Portfolio/blob/main/Incident%20report%20analysis.pdf)** I created an incident report after analyzing a scenario using the National Institute of Standards and Technology's Cybersecurity Framework (NIST CSF). 
@@ -49,5 +50,8 @@ I'll be delighted to hear from you.
 
 
 ## 🥷 Skills and Technologies:
-Linux, SQL, Python, Splunk, Network Security, WireShark, Microsoft 365, Microsoft Defender, Cisco Packet Tracer, Cloud Computing, AWS, Research
+Technology: Linux, Python, SQL, Splunk, Wireshark, Virtual Machines, Nessus, WPScan, Firewalls, CISO Assistant, Microsoft 365, Microsoft Defender, Cisco Packet Tracer
+Concepts/Frameworks: Network Security, Incident Response, Incident Triage, NIST, HIPAA, Network Security, MITRE ATT&CK, Cloud Computing, AWS, Research, HIPAA Compliance, NIST CSF, Identity and Access Management
+Soft: Curiosity, Analytical, Attention to Detail, Team Player, Communication, Critical Thinking, Self-Motivation, Problem-Solving, Desire to Learn
 
+ 
