@@ -2,7 +2,7 @@
 
 ### 👨‍💻 About me:
 I’m a passionate and self-motivated learner transitioning into cybersecurity. 
-With over 15 years of experience in communication, event management, and UI/UX design, 
+With over 15 years of experience in communication, event management, and UI/UX design, [view my portfolio](https://issuu.com/bentetteh/docs/benjamin_tetteh_portfolio_c380683a524228), 
 I bring a creative and analytical perspective to this dynamic field. My journey into cybersecurity is driven by 
 a desire to tackle complex challenges and protect sensitive information from malicious threats. 
 I have developed hands-on expertise in cybersecurity frameworks, vulnerability management, network security, incident response and cloud computing working with tools such as Splunk, Chronicle, Nmap, Wireshark, and Python, alongside navigating Linux systems and filtering data with SQL queries.
