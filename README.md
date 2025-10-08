@@ -1,4 +1,4 @@
-# Hello, 🖐️ my name is Benjamin Tetteh.
+# Hello, 🖐️ my name is Benjamin Tetteh. I'm a tech enthusiast.
 
 ### 👨‍💻 About me:
 I’m a passionate and self-motivated learner. 
