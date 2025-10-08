@@ -1,7 +1,7 @@
-# Hello, 🖐️ my name is Benjamin Tetteh. I'm an aspiring Cloud Security Professional
+# Hello, 🖐️ my name is Benjamin Tetteh.
 
 ### 👨‍💻 About me:
-I’m a passionate and self-motivated learner transitioning into cybersecurity. 
+I’m a passionate and self-motivated learner. 
 With over 15 years of experience in communication, event management, and UI/UX design, 
 I bring a creative and analytical perspective to this dynamic field. You can view my [portfolio](https://issuu.com/bentetteh/docs/benjamin_tetteh_portfolio_c380683a524228) here. 
 
