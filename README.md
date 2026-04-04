@@ -1,21 +1,25 @@
-# Hello, 🖐️ my name is Benjamin Tetteh. I'm a tech enthusiast.
+# Hello, 🖐️ my name is Benjamin Tetteh.
 
 ### 👨‍💻 About me:
-I’m a passionate and self-motivated learner. 
-With over 15 years of experience in communication, event management, and UI/UX design, 
-I bring a creative and analytical perspective to this dynamic field. You can view my [portfolio](https://issuu.com/bentetteh/docs/benjamin_tetteh_portfolio_c380683a524228) here. 
+I am a CISA-certified IT/IS Auditor and emerging DevSecOps practitioner focused on redefining how organizations approach governance, risk, and compliance in modern, cloud-driven environments.
 
-My journey into cybersecurity is driven by a desire to tackle complex challenges and protect sensitive information from malicious threats. 
-I have developed hands-on expertise in cybersecurity frameworks, vulnerability management, network security, incident response and cloud computing working with tools such as Splunk, Chronicle, Nmap, Wireshark, and Python, alongside navigating Linux systems and filtering data with SQL queries.
+My work sits at the intersection of audit, security, and engineering—where I bridge the gap between traditional control frameworks and real-world system implementation. I am particularly passionate about advancing Compliance as Code, enabling organizations to move from manual, point-in-time audits to continuous, automated assurance embedded directly within the software development lifecycle.
 
-I dedicate significant time to continuous learning through platforms like TryHackMe, HackTheBox, YouTube and other educational resources. 
-My passion for technology and problem-solving fuels my growth in the field, as I strive to stay ahead in the ever-evolving cybersecurity landscape. What sets me apart is my determination to tackle challenging problems and deliver effective, secure solutions. I’m excited to apply my skills to safeguard digital environments while advancing as a cybersecurity professional.
+With a foundation in Risk Assessment and UI/UX Design, I bring a human-centered perspective to complex technical systems—ensuring that security controls are not only effective, but also usable, scalable, and aligned with how teams actually work.
 
-🌐 I am committed to expanding my cybersecurity portfolio as I complete more projects. 
-Let’s connect on [LinkedIn](https://www.linkedin.com/in/benjamintetteh/) or email me at benjamintetteh@gmail.com. 
-I'll be delighted to hear from you.
+I am actively building hands-on expertise in Linux, cloud infrastructure, networking, and CI/CD automation, with the goal of designing and implementing “digital guardrails”—systems that enforce security, compliance, and resilience by design rather than by inspection.
 
-## 🔐 Cybersecurity Projects I have done:
+What differentiates me is my ability to operate across multiple domains:
+- As an auditor, I understand risk, controls, and regulatory expectations 
+- As a builder, I translate those requirements into automated, developer-friendly solutions 
+- As a UX/UI designer, I design systems that are not only secure, but intuitive and frictionless to use 
+- As a strategic communicator, I distill complex technical and risk concepts into clear, actionable insights
+
+I am positioning myself to contribute to the next generation of secure, audit-ready, high-velocity systems, where compliance is continuous, security is embedded, and innovation is not slowed down by control—but strengthened by it.
+
+I am open to opportunities and collaborations at the intersection of DevSecOps, Cloud Security, and GRC transformation.
+
+## 🔐 Projects I have done:
 * **[Conducted an enterprise-wide NIST Cybersecurity framework assessment:](https://github.com/BenjaminTetteh/Cybersecurity-Portfolio/blob/main/Enterprise-wide%20NIST%20cybersecurity%20framework%20assessment.pdf)** Performed a comprehensive NIST CSF assessment on a fictional healthcare provider to identify security gaps, align controls with HIPAA & NIST SP 800-53, developed an incident response plan, and proposed a 12-month security roadmap to enhance GRC expertise.
 * **[Analyze a vulnerable system for a small business:](https://github.com/BenjaminTetteh/Cybersecurity-Portfolio/blob/main/Analyze%20a%20vulnerable%20system%20for%20a%20small%20business.pdf)** I conducted a vulnerability assessment for a small business, evaluated the risks of a vulnerable information system and outlined a remediation plan. NIST SP 800-30 Rev. 1 was used to guide the risk analysis of the information system.
 * **[Conduct a security audit:](https://github.com/BenjaminTetteh/Cybersecurity-Portfolio/blob/main/Conduct%20a%20security%20audit.pdf)** Performed an internal security audit for a fictional company, assessing its security posture, identifying gaps, and recommending improvements to align with PCI DSS, GDPR, and SOC standards.
@@ -26,32 +30,16 @@ I'll be delighted to hear from you.
 * **Phishing attack simulator:** Developed a self-initiated phishing attack simulator using GoPhish to assess security awareness, analyze user responses, and enhance phishing defense strategies.
 * **Created a Virtual Private Cloud (VPC) Using AWS:** Designed and deployed a Virtual Private Clouds (VPC) on Amazon Web Services (AWS) and configured virtual machines within the VPC for testing and operational purposes.
 * **Security Incident Report:** Documented a cybersecurity incident involving a ransomware attack on a healthcare facility.
-* **Change converter:** As part of my training from Security Blue Team, I created a python program that converts a given amount of money, expressed in cents, into its equivalent value in dollars, quarters, dimes, nickels, and pennies. 
-* **Cybersecurity Lab Environment Setup:** Built a virtual lab using VirtualBox on MacBook Air M2, with KALI Linux, Metasploitable 2, Nessus Essentials, and WPScan for vulnerability management, malware analysis, and log analysis.
-
-## 🔐 Experience:
-* **ANZ Australia Cybersecurity Management Job Simulation (Forage):** Investigated phishing emails and analyzed Packet Capture files using Wireshark and a Hex-editor to identify potential threats.
-* **Telstra Cybersecurity Job Simulation (Forage):** Gained experience in malware detection, incident response, and implementing firewalls as part of a Security Operations team.
-* **PwC Switzerland Cybersecurity Job Simulation (Forage):** Conducted risk assessments, recommended security strategies, and demonstrated expertise in network segmentation and firewall configuration.
-* **Mastercard Cybersecurity Virtual Experience Program (Forage):** Identified and reported phishing threats, assessed areas requiring improved security training, and implemented mitigation procedures.
-* **Deloitte Cyber Job Simulation (Forage):** Supported a client in a cyber security breach by examining web activity logs and identifying suspect user behaviour.
 
 ## 📃 Training and Certifications:
-* CompTIA Security+ (Expected 10/25)
-* SOC Analyst 1 - Try Hack Me (Expected 12/25)
-* Introduction to Vulnerability Management - Security Blue Team, 2024
-* Google Cybersecurity Professional Certificate, 2024
-* Certified in Cybersecurity - ISC2, 2024
-* Introduction to Cybersecurity - Try Hack Me, 2024
-* Qualys Vulnerability Management Foundation, 2024
-* Cisco Networking Basics, 2024
-* Google, AI Essentials, 2024
-* AWS Cloud Essentials, 2024
-* UX Design - Google, 2023
-
-## 🥷 Skills and Technologies:
-* Technology: Linux, Python, SQL, Splunk, Wireshark, Virtual Machines, Nessus, WPScan, Firewalls, CISO Assistant, Microsoft 365, Microsoft Defender, Cisco Packet Tracer
-* Concepts/Frameworks: Network Security, Incident Response, Incident Triage, NIST, HIPAA, Network Security, MITRE ATT&CK, Cloud Computing, AWS, Research, HIPAA Compliance, NIST CSF, Identity and Access Management
-* Soft: Curiosity, Analytical, Attention to Detail, Team Player, Communication, Critical Thinking, Self-Motivation, Problem-Solving, Desire to Learn
-
- 
+* DevOps Engineering (Ongoing)
+* CompTIA Security+
+* Certified Information Systems Auditor (CISA)
+* Introduction to Vulnerability Management - Security Blue Team
+* Google Cybersecurity Professional Certificate
+* Certified in Cybersecurity (CC) - ISC2
+* Qualys Vulnerability Management Foundation
+* Cisco Networking Basics
+* Google AI Professional
+* AWS Cloud Essentials
+* Google UX Design
