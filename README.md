@@ -20,6 +20,9 @@ I am positioning myself to contribute to the next generation of secure, audit-re
 I am open to opportunities and collaborations at the intersection of IT Audit, DevSecOps, Cloud Security, GRC transformation, UX/UI Design and Research.
 
 ## 🔐 Projects I have done:
+
+* **[SecureVault:](https://github.com/BenjaminTetteh/securevault)** Created a web-based secrets detection tool that scans text, config files, and code snippets for exposed credentials — API keys, passwords, tokens, and more.
+* **[Event CRM:](https://github.com/BenjaminTetteh/Event-CRM)** An AI-powered workflow tool designed to eliminate manual quoting and qualify event leads through budget-gated intake forms. This app automates the transition from initial client brief to final paid receipt for high-end event decor businesses.
 * **[Conducted an enterprise-wide NIST Cybersecurity framework assessment:](https://github.com/BenjaminTetteh/Cybersecurity-Portfolio/blob/main/Enterprise-wide%20NIST%20cybersecurity%20framework%20assessment.pdf)** Performed a comprehensive NIST CSF assessment on a fictional healthcare provider to identify security gaps, align controls with HIPAA & NIST SP 800-53, developed an incident response plan, and proposed a 12-month security roadmap to enhance GRC expertise.
 * **[Analyze a vulnerable system for a small business:](https://github.com/BenjaminTetteh/Cybersecurity-Portfolio/blob/main/Analyze%20a%20vulnerable%20system%20for%20a%20small%20business.pdf)** I conducted a vulnerability assessment for a small business, evaluated the risks of a vulnerable information system and outlined a remediation plan. NIST SP 800-30 Rev. 1 was used to guide the risk analysis of the information system.
 * **[Conduct a security audit:](https://github.com/BenjaminTetteh/Cybersecurity-Portfolio/blob/main/Conduct%20a%20security%20audit.pdf)** Performed an internal security audit for a fictional company, assessing its security posture, identifying gaps, and recommending improvements to align with PCI DSS, GDPR, and SOC standards.
@@ -30,6 +33,7 @@ I am open to opportunities and collaborations at the intersection of IT Audit, D
 * **Phishing attack simulator:** Developed a self-initiated phishing attack simulator using GoPhish to assess security awareness, analyze user responses, and enhance phishing defense strategies.
 * **Created a Virtual Private Cloud (VPC) Using AWS:** Designed and deployed a Virtual Private Clouds (VPC) on Amazon Web Services (AWS) and configured virtual machines within the VPC for testing and operational purposes.
 * **[UI/UX Design projects:](https://github.com/BenjaminTetteh/UI-UX-Design-projects?tab=readme-ov-file)** Check out some of my projects.
+* **[Graphic Design portfolio](https://issuu.com/bentetteh/docs/benjamin_tetteh_portfolio_c380683a524228)** I started my professional career as a graphic designer. Check out some of my work.
 
 ## 📃 Training and Certifications:
 * DevOps Engineering - Ongoing
