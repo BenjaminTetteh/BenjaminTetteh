@@ -17,7 +17,7 @@ What differentiates me is my ability to operate across multiple domains:
 
 I am positioning myself to contribute to the next generation of secure, audit-ready, high-velocity systems, where compliance is continuous, security is embedded, and innovation is not slowed down by control—but strengthened by it.
 
-I am open to opportunities and collaborations at the intersection of IT Audit, DevSecOps, Cloud Security, GRC transformation and UX/UI Design and Research.
+I am open to opportunities and collaborations at the intersection of IT Audit, DevSecOps, Cloud Security, GRC transformation, UX/UI Design and Research.
 
 ## 🔐 Projects I have done:
 * **[Conducted an enterprise-wide NIST Cybersecurity framework assessment:](https://github.com/BenjaminTetteh/Cybersecurity-Portfolio/blob/main/Enterprise-wide%20NIST%20cybersecurity%20framework%20assessment.pdf)** Performed a comprehensive NIST CSF assessment on a fictional healthcare provider to identify security gaps, align controls with HIPAA & NIST SP 800-53, developed an incident response plan, and proposed a 12-month security roadmap to enhance GRC expertise.
@@ -29,12 +29,13 @@ I am open to opportunities and collaborations at the intersection of IT Audit, D
 * **[Managing Files using Linux commands:](https://github.com/BenjaminTetteh/Cybersecurity-Portfolio/blob/main/File%20permissions%20in%20Linux.pdf)** I used Linux commands to examine existing permissions and modified them if need be, to authorize the appropriate users and removed any unauthorized access.
 * **Phishing attack simulator:** Developed a self-initiated phishing attack simulator using GoPhish to assess security awareness, analyze user responses, and enhance phishing defense strategies.
 * **Created a Virtual Private Cloud (VPC) Using AWS:** Designed and deployed a Virtual Private Clouds (VPC) on Amazon Web Services (AWS) and configured virtual machines within the VPC for testing and operational purposes.
-* **Security Incident Report:** Documented a cybersecurity incident involving a ransomware attack on a healthcare facility.
+* **[UI/UX Design projects:](https://github.com/BenjaminTetteh/UI-UX-Design-projects?tab=readme-ov-file)** Check out some of my projects.
 
 ## 📃 Training and Certifications:
-* DevOps Engineering (Ongoing)
-* CompTIA Security+
+* DevOps Engineering - Ongoing
+* Certified in Risk and Information Systems Control (CRISC) - Ongoing
 * Certified Information Systems Auditor (CISA)
+* CompTIA Security+
 * Introduction to Vulnerability Management - Security Blue Team
 * Google Cybersecurity Professional Certificate
 * Certified in Cybersecurity (CC) - ISC2
@@ -43,3 +44,6 @@ I am open to opportunities and collaborations at the intersection of IT Audit, D
 * Google AI Professional
 * AWS Cloud Essentials
 * Google UX Design
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
