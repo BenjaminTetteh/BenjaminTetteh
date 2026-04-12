@@ -1,4 +1,4 @@
-# Hello, 🖐️ my name is Benjamin Tetteh.
+# Hello, 🖐️ my name is Benjamin Tetteh
 
 ### 👨‍💻 About me:
 I am a CISA-certified IT/IS Auditor and emerging DevSecOps practitioner focused on redefining how organizations approach governance, risk, and compliance in modern, cloud-driven environments.
@@ -17,7 +17,7 @@ What differentiates me is my ability to operate across multiple domains:
 
 I am positioning myself to contribute to the next generation of secure, audit-ready, high-velocity systems, where compliance is continuous, security is embedded, and innovation is not slowed down by control—but strengthened by it.
 
-I am open to opportunities and collaborations at the intersection of DevSecOps, Cloud Security, and GRC transformation.
+I am open to opportunities and collaborations at the intersection of IT Audit, DevSecOps, Cloud Security, GRC transformation and UX/UI Design and Research.
 
 ## 🔐 Projects I have done:
 * **[Conducted an enterprise-wide NIST Cybersecurity framework assessment:](https://github.com/BenjaminTetteh/Cybersecurity-Portfolio/blob/main/Enterprise-wide%20NIST%20cybersecurity%20framework%20assessment.pdf)** Performed a comprehensive NIST CSF assessment on a fictional healthcare provider to identify security gaps, align controls with HIPAA & NIST SP 800-53, developed an incident response plan, and proposed a 12-month security roadmap to enhance GRC expertise.
