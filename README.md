@@ -8,9 +8,9 @@ With 6+ years of experience spanning IT Audit, Risk & Compliance, and hands-on e
 
 ---
 
-## 🚀 What I'm Building
+## What I'm Building
 
-### 🔐 ControlForge *(Flagship Project)*
+### ControlForge *(Flagship Project)*
 
 ControlForge is an **Audit Operations Platform** built to modernize IT audit and governance.
 
@@ -30,7 +30,7 @@ Originally created to eliminate repetitive, spreadsheet-driven audit work, it ha
 
 ---
 
-## ☁️ Featured Projects
+## Featured Projects
 
 ### AWS 3-Tier Infrastructure
 Production-style AWS infrastructure built with Terraform, Infrastructure as Code, GitHub Actions, and security best practices.
@@ -43,9 +43,9 @@ Secrets detection utility for identifying exposed credentials, API keys, passwor
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### ☁️ Cloud & Infrastructure
+### Cloud & Infrastructure
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
@@ -54,7 +54,7 @@ Secrets detection utility for identifying exposed credentials, API keys, passwor
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🔒 Security
+### Security
 
 ![CISA](https://img.shields.io/badge/CISA-005BAC?style=for-the-badge)
 ![Security+](https://img.shields.io/badge/CompTIA_Security+-E60012?style=for-the-badge)
@@ -62,7 +62,7 @@ Secrets detection utility for identifying exposed credentials, API keys, passwor
 
 ---
 
-## ✍️ Writing
+## Writing
 
 I enjoy writing about DevSecOps, Cloud Engineering, Security, AI-assisted development, and modern IT Audit.
 
@@ -72,7 +72,7 @@ I enjoy writing about DevSecOps, Cloud Engineering, Security, AI-assisted develo
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 - Kubernetes
 - Platform Engineering
@@ -82,10 +82,10 @@ I enjoy writing about DevSecOps, Cloud Engineering, Security, AI-assisted develo
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
-- 💼 LinkedIn: https://www.linkedin.com/in/benjamintetteh/
-- 📧 Email: benjamintetteh@gmail.com
+- LinkedIn: https://www.linkedin.com/in/benjamintetteh/
+- Email: benjamintetteh@gmail.com
 
 ---
 
